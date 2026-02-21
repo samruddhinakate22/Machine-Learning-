@@ -29,12 +29,6 @@ It compares:
 Actual values
 Predicted values
 
-🧩 Matrix Structure
-	                     Predicted Positive	        Predicted Negative
-Actual Positive	      True Positive (TP)	      False Negative (FN)
-Actual Negative	      False Positive (FP)	      True Negative (TN)
-
-
 Metrics Calculated
 
 Accuracy = (TP + TN) / Total
